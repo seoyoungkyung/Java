@@ -13,7 +13,7 @@ public class 자동변환 {
 		
 		long l1 = 100;	//
 		
-		float f1 = l1;	//
+		float f1 = l1;	/\
 		
 	}
 }
