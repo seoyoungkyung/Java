@@ -28,13 +28,36 @@ public class InputNameAge {
 		 
 		System.out.println("나의 이름은 "+ name +"입니다.");
 		
+		//---------------------------------------
+		
+		
 		System.out.println("나이를 입력하세요 : ");
 		
 		int age = sc.nextInt();	//나이는 정수이므로 정수형을 사용
 		
 		System.out.println("나이는 "+ age +" 입니다.");
 		
-		System.out.println("프로그램 종료!!! ");
+		//-------------------------------------
+		
+		
+		String sad = sc.nextLine();
+		System.out.println(sad +"입니다.");
+		/*
+		 * System.out.println("혈액형을 입력하세요 :");
+		 * 
+		 * String bld = sc.nextLine();
+		 * 
+		 * System.out.println(bld +"입니다.");
+		 */
+		
+		/*
+		 * System.out.println("사이즈를 입력하세요 :");
+		 * 
+		 * int size = sc.nextInt();
+		 * 
+		 * System.out.println(size + "입니다."); System.out.println("프로그램 종료!!! ");
+		 */
+		
 		
 	}
 
