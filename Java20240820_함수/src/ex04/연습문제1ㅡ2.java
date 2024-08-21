@@ -13,7 +13,7 @@ public class 연습문제1ㅡ2 {
 		
 		
 		String[] name = new String[10];
-		int index = 0;
+		int count = 0;
 		boolean flag = true;
 		Scanner sc = new Scanner(System.in);
 		
@@ -26,10 +26,11 @@ public class 연습문제1ㅡ2 {
 			switch(num) {
 			case 1:
 				System.out.println("과목명 입력: ");
-				name[index++] = sc.nextLine();
+				name[count++] = sc.nextLine();
+				
 				break;
 			case 2:
-				for(int i=0; i<index; i++)
+				for(int i=0; i<count; i++)
 					System.out.println(name[i] + " ,");
 				System.out.println();
 				break;
