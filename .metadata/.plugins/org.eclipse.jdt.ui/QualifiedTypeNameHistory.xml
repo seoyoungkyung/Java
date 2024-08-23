@@ -11,6 +11,10 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="ex02.Student"/>
     <fullyQualifiedTypeName name="ex06.Student"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ex07.MyClass"/>
+    <fullyQualifiedTypeName name="ex01.Account"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ex02.Book"/>
+    <fullyQualifiedTypeName name="ex03.StaticEx"/>
+    <fullyQualifiedTypeName name="ex07.Singleton"/>
 </qualifiedTypeNameHistroy>
