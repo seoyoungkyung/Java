@@ -24,5 +24,5 @@ package ex02;
 	      if (sound <0)
 	         sound = 0;
 	   }
-	   
+	  
 }

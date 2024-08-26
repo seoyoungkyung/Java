@@ -43,6 +43,4 @@ public class SamsungTV implements TV{
 	   public boolean getPower() {
 	      return isPower;
 	   }
-	   
-
 }
