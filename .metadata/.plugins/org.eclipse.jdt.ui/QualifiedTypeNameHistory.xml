@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="ex06.은행계좌설계"/>
-    <fullyQualifiedTypeName name="ex07.BankMain"/>
-    <fullyQualifiedTypeName name="ex07.BlankClass"/>
     <fullyQualifiedTypeName name="ex07.LibraryClass"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
@@ -30,7 +25,39 @@
     <fullyQualifiedTypeName name="ex05_강제타입변환.Student"/>
     <fullyQualifiedTypeName name="ex05_강제타입변환.PartTimeStudent"/>
     <fullyQualifiedTypeName name="ex06.Car"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex06.Vehicle"/>
     <fullyQualifiedTypeName name="ex06.Truck"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentSkipListSet"/>
+    <fullyQualifiedTypeName name="part03_상속.Car"/>
+    <fullyQualifiedTypeName name="part03_상속.Vehicle"/>
+    <fullyQualifiedTypeName name="part03_상속.Turck"/>
+    <fullyQualifiedTypeName name="ex01.Animal"/>
+    <fullyQualifiedTypeName name="ex02.Animal"/>
+    <fullyQualifiedTypeName name="ex03.MainAnimal"/>
+    <fullyQualifiedTypeName name="ex03.Animal"/>
+    <fullyQualifiedTypeName name="ex03.Dog"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="ex04_다형성.Cat"/>
+    <fullyQualifiedTypeName name="ex04_다형성.Animal"/>
+    <fullyQualifiedTypeName name="ex04_다형성.진도개"/>
+    <fullyQualifiedTypeName name="ex04_다형성.Dog"/>
+    <fullyQualifiedTypeName name="ex05.Cat"/>
+    <fullyQualifiedTypeName name="ex05.Dog"/>
+    <fullyQualifiedTypeName name="ex05.Animal"/>
+    <fullyQualifiedTypeName name="ex06.Cow"/>
+    <fullyQualifiedTypeName name="ex06.Animal"/>
+    <fullyQualifiedTypeName name="ex07.ClassA"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex08.Item"/>
+    <fullyQualifiedTypeName name="ex08.Book"/>
+    <fullyQualifiedTypeName name="ex08.Album"/>
+    <fullyQualifiedTypeName name="ex08.Movie"/>
+    <fullyQualifiedTypeName name="ex07.ClassC"/>
+    <fullyQualifiedTypeName name="ex01.LgTV"/>
+    <fullyQualifiedTypeName name="ex01.SamsungTV"/>
+    <fullyQualifiedTypeName name="ex02.SamsungTV"/>
+    <fullyQualifiedTypeName name="ex03.Payment"/>
+    <fullyQualifiedTypeName name="ex03.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="ex03.CashPayment"/>
+    <fullyQualifiedTypeName name="ex03.PayPalPayment"/>
 </qualifiedTypeNameHistroy>
