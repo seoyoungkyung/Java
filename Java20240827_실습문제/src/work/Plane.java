@@ -28,7 +28,7 @@ public abstract class Plane {
 	}
 	
 	public void flight(int distance) {
-		fuelSize--;
+		
 	}
 	
 }
