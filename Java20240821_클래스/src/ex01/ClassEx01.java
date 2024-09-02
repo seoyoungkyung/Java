@@ -18,16 +18,16 @@ import java.util.Scanner;
 	 */
 			Student k = new Student();
 			
-			k.나이 = 50;
-			k.이름 = "kk";
-			k.전화번호 = "010-1234-56780";
-			k.info();
-			
-			Student k2 = new Student();
-			k2.나이 = 30;
-			k2.이름 = "k2k";
-			k2.전화번호 = "010-9456-5212";
-			k2.info();
+//			k.나이 = 50;
+//			k.이름 = "kk";
+//			k.전화번호 = "010-1234-56780";
+//			k.info();
+//			
+//			Student k2 = new Student();
+//			k2.나이 = 30;
+//			k2.이름 = "k2k";
+//			k2.전화번호 = "010-9456-5212";
+//			k2.info();
 		
 		
 		

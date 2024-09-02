@@ -6,7 +6,9 @@ public class Student {										//클래스명 첫글자는 대문자, 변수 �
 		private String name;
 		private int age;
 		private String phone;
-		
+		public Student() {
+			// TODO Auto-generated constructor stub
+		}
 		
 	
 		public String getName() {
@@ -31,11 +33,11 @@ public class Student {										//클래스명 첫글자는 대문자, 변수 �
 		
 		
 		
-		Student(){
+		Student(String string, int i, String string2){
 			System.out.println("디폴트 생성자 호출");
 		}
 		
-		S
+		
 		
 		void info() {
 			System.out.printf("이름 : %s, 나이 : %d, 전화번호 : %s\n",name,age,phone);
