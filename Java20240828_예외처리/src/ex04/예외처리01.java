@@ -1,6 +1,6 @@
 package ex04;
 
-import java.util.Scanner;
+ 
 
 public class 예외처리01 {
 

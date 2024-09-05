@@ -1,6 +1,6 @@
 package ex06;
 
-import java.awt.print.Paper;
+
 
 /*
  * 멤버로컬클래스 생성

@@ -1,6 +1,6 @@
 package ex06;
 
-import java.util.Scanner;
+ 
 
 public class 예외처리01 {
 

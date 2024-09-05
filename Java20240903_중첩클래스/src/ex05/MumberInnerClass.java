@@ -1,6 +1,6 @@
 package ex05;
 
-import java.awt.print.Paper;
+
 
 /*
  * 멤버이너클래스 생성

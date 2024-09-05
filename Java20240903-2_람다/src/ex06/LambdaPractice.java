@@ -11,26 +11,34 @@ public class LambdaPractice {
 	public static void main(String[] args) {
 
 		 List<Integer> numbers = List.of(1, 2, 3, 4, 5, 6);
-	
+		 
+		 Predicate<Integer> p = t -> t % 2 == 0;
+		 
 		 // 1. 짝수만 필터링
-	        List<Integer> evenNumbers = filterEvenNumbers(numbers, num -> num%2==0);
+	        List<Integer> evenNumbers = filterEvenNumbers(numbers, p);
 	        for(int i : evenNumbers)
 	        	System.out.println(i + " ");
 	   
 	        System.out.println("\n------------------------");
 	   
 	    // 2. 짝수의 제곱 구하기
-	        List<Integer> squaredNumbers = map(numbers, num-> num*num);
+	        List<Integer> squaredNumbers = map(evenNumbers, num-> num*num);
 	        for(int i : squaredNumbers)
 	        	System.out.println(i + " ");
 	   
 	        System.out.println("\n------------------------");
         
 	    // 3. 결과 출력
-	    forEach(numbers, n->System.out.println(n + " ") );
-
+	        //forEach(numbers, n->System.out.println(n + " ") );
+	        forEach(evenNumbers ,n->System.out.println(n + " ") );
+	        forEach(squaredNumbers ,n->System.out.println(n + " ") );
 	}
 
+	public static int sum(int a , int b)
+	{
+		return a + b;
+	}
+	
 	//짝수만 필터링하는 메소드
 	public static List<Integer> filterEvenNumbers(List<Integer> numbers, Predicate<Integer> predicate) {
 	

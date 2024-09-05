@@ -4,7 +4,7 @@ import java.util.function.BiFunction;
 
 
 /*
- * 숫자 2개 전달하면 최대값 반환!
+ * 숫자 2개 전달하면 문자열로 반환!
  */
 
 public class Exam07 {

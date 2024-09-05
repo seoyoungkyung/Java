@@ -49,7 +49,7 @@ public class FruitAndBox {
 		Orange op = oBox.getObj();
 		System.out.println(op);
 		
-		Box<String> sBox = new Box();
+		Box<String> sBox = new Box<>();
 		sBox.setObj("홍길동");
 		String str = sBox.getObj();
 		System.out.println(str);

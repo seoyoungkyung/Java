@@ -19,7 +19,7 @@ public class 예외처리01 {
 		
 		double result = 0;
 		
-		//num2 ==0이면 나누지 하지 않는다.
+		//num2 ==0이면 나누기 하지 않는다.
 		if(num2 != 0) {
 		result = num1/num2;
 		}
