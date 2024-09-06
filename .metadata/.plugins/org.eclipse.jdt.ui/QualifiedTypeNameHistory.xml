@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="part5_인터페이스.Plane"/>
-    <fullyQualifiedTypeName name="part5_인터페이스.AirplaneTest"/>
-    <fullyQualifiedTypeName name="ex01.ArrayList01"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="ex09.Num"/>
-    <fullyQualifiedTypeName name="ex11.Member"/>
-    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
-    <fullyQualifiedTypeName name="java.lang.Comparable"/>
-    <fullyQualifiedTypeName name="java.util.Stack"/>
-    <fullyQualifiedTypeName name="java.util.Queue"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Comparator"/>
-    <fullyQualifiedTypeName name="java.util.TreeSet"/>
     <fullyQualifiedTypeName name="ex05.FruitComparator"/>
     <fullyQualifiedTypeName name="ex05.Fruit"/>
     <fullyQualifiedTypeName name="ex20.HashSetLab1"/>
@@ -60,4 +45,19 @@
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="part4_제네릭.Shuttle"/>
     <fullyQualifiedTypeName name="part4_제네릭.BioUnit"/>
+    <fullyQualifiedTypeName name="ex02.Counter"/>
+    <fullyQualifiedTypeName name="thread.HelloThread"/>
+    <fullyQualifiedTypeName name="thread.HelloRunnableMain"/>
+    <fullyQualifiedTypeName name="thread.HelloRunnable"/>
+    <fullyQualifiedTypeName name="util.MyLogger"/>
+    <fullyQualifiedTypeName name="thread.CounterThread"/>
+    <fullyQualifiedTypeName name="thread.CounterThreadMain2"/>
+    <fullyQualifiedTypeName name="thread.CounterRunnable"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="thread.CounterManyThread"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="thread.JoinMainV1.SumTask"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>
